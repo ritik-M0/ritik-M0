@@ -30,7 +30,7 @@
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritik-M0&theme=tokyo-night)](https://github.com/ritik-M0/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritik-M0&theme=tokyo-night)](https://github.com/ritik-M0)
 
 </div>
 
