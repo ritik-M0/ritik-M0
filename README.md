@@ -17,8 +17,8 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riteksharmachd@gmail.com)
 
 * ### 🛠 Technical Stack
-* **Languages & Frameworks:** TypeScript (**Node.js, NestJS**), JavaScript, **Next.js**, React.
-* **Backend & Data:** PostgreSQL (**Prisma**), MongoDB, **Redis**, Vector Databases.
+* **Languages & Frameworks:** TypeScript (**Node.js, NestJS**), JavaScript, **Next.js**, React, Java, Springboot
+* **Backend & Data:** PostgreSQL (**Prisma**), MongoDB, **Redis**, Vector Databases, Message queues, Job queues, Kafka, BullMQ
 * **Infrastructure:** **Docker**, AWS, containerized deployments.
 * **Systems & Architecture:** Distributed systems, queue-based architectures, asynchronous job processing.
 * **AI Systems:** LLM integrations, embeddings, **RAG pipelines**, agentic workflows.
