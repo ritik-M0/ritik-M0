@@ -23,6 +23,7 @@
 ### * **Systems & Architecture:** Distributed systems, queue-based architectures, asynchronous job processing.
 ### * **AI Systems:** LLM integrations, embeddings, **RAG pipelines**, agentic workflows.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h1 align="center"> Some of my work</h1>
 
 <table>
