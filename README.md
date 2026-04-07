@@ -11,10 +11,6 @@
 ### * **AI Infrastructure:** Designed and implemented **RAG pipelines and agentic workflows** integrating LLM APIs and vector databases.
 
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-sharma-cse/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riteksharmachd@gmail.com)
 
 ## *  🛠 Technical Stack
 ### * **Languages & Frameworks:** TypeScript (**Node.js, NestJS**), JavaScript, **Next.js**, React, Java, Springboot
@@ -76,6 +72,20 @@ Audio → transcripts → AI summaries. On-chain payments via X402 because regul
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
+
+<div align="center">
+
+# 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/ritik-sharma-cse/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>
+</a>
+
+<a href="mailto:riteksharmachd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100"/>
+</a>
+
+</div>
 
 <div align="center">
 
