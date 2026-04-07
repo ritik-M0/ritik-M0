@@ -5,19 +5,19 @@
 ---
 
 ## 📈 Recent Impact
-### * **Backend Systems:** Architected scalable backend services and AI platforms using **TypeScript, NestJS, PostgreSQL, and Redis**.
-### * **Cost Optimization:** Continuously evaluate and select **AI models and compute providers** to optimize inference cost and performance across workloads.
-### * **Performance & Reliability:** Improved backend efficiency through **caching strategies, API optimization, and asynchronous processing**.
-### * **AI Infrastructure:** Designed and implemented **RAG pipelines and agentic workflows** integrating LLM APIs and vector databases.
+###  **Backend Systems:** Architected scalable backend services and AI platforms using **TypeScript, NestJS, PostgreSQL, and Redis**.
+###  **Cost Optimization:** Continuously evaluate and select **AI models and compute providers** to optimize inference cost and performance across workloads.
+###  **Performance & Reliability:** Improved backend efficiency through **caching strategies, API optimization, and asynchronous processing**.
+###  **AI Infrastructure:** Designed and implemented **RAG pipelines and agentic workflows** integrating LLM APIs and vector databases.
 
 
 
-## *  🛠 Technical Stack
-### * **Languages & Frameworks:** TypeScript (**Node.js, NestJS**), JavaScript, **Next.js**, React, Java, Springboot
-### * **Backend & Data:** PostgreSQL (**Prisma**), MongoDB, **Redis**, Vector Databases, Message queues, Job queues, Kafka, BullMQ
-### * **Infrastructure:** **Docker**, AWS, containerized deployments.
-### * **Systems & Architecture:** Distributed systems, queue-based architectures, asynchronous job processing.
-### * **AI Systems:** LLM integrations, embeddings, **RAG pipelines**, agentic workflows.
+##   🛠 Technical Stack
+###  **Languages & Frameworks:** TypeScript (**Node.js, NestJS**), JavaScript, **Next.js**, React, Java, Springboot
+###  **Backend & Data:** PostgreSQL (**Prisma**), MongoDB, **Redis**, Vector Databases, Message queues, Job queues, Kafka, BullMQ
+###  **Infrastructure:** **Docker**, AWS, containerized deployments.
+###  **Systems & Architecture:** Distributed systems, queue-based architectures, asynchronous job processing.
+###  **AI Systems:** LLM integrations, embeddings, **RAG pipelines**, agentic workflows.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h1 align="center"> Some of my work</h1>
