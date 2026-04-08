@@ -24,17 +24,55 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="25%">
+
+<td align="center" valign="top" width="33%">
 <br/>
 <h3>🎓 <a href="https://generalized.xyz">Generalized</a></h3>
 <b>AI Course Generation</b>
 <br/><br/>
 Prompt → full course with lessons, quizzes, podcast & images, streamed live. 5-phase LLM pipeline doing the heavy lifting.
 <br/><br/>
-<code>Mastra AI</code> <code>Gemini</code> <code>OpenAI TTS</code> <code>SSE</code> <code>Web3</code>
+<code>NestJs</code> <code>Mastra AI</code> <code>Gemini</code> <code>OpenAI TTS</code> <code>SSE</code> <code>Parallel-AI</code>
 <br/><br/>
 </td>
-<td align="center" valign="top" width="25%">
+
+<td align="center" valign="top" width="33%">
+<br/>
+<h3>🧠 <a href="https://forge.meme/">Forge Meme</a></h3>
+<b>Automation-First Meme Coin Launchpad</b>
+<br/><br/>
+Turn your token idea into a live, production-ready landing page in under 60 seconds with <b>automated cloud deployment</b> and <b>full GitHub CI/CD integration</b>. Forge Meme supports <b>instant custom domain provisioning</b>, AI mascot generation via Fal.ai, and real-time market sentiment via <b>MemeGPT</b>.
+<br/><br/>
+<code>NestJS</code>  <code>Custom Domains</code> <code>GitHub API</code> <code>Prisma</code> <code>Atlos</code> <code>BullMQ</code>
+<br/><br/>
+</td>
+
+<td align="center" valign="top" width="33%">
+<br/>
+<h3>🎙️ <a href="https://scribeos.xyz/">ScribeOS</a></h3>
+<b>AI Transcription</b>
+<br/><br/>
+Audio → transcripts → AI summaries. On-chain payments via X402 because regular billing is too mainstream.
+<br/><br/>
+<code>NestJs</code> <code>Whisper V3</code>  <code>Websockets</code> <code>X402</code> <code>Cloudflare R2</code>  <code>DeepGram</code>
+<br/><br/>
+</td>
+
+</tr>
+
+<tr>
+<td align="center" valign="top" width="33%">
+<br/>
+<h3>🔍 <a href="https://depth.systems/">Depth</a></h3>
+<b>AI-Powered Deep Intelligence & Research Orchestration</b>
+<br/><br/>
+Execute comprehensive, institutional-grade research in seconds using <b>Mastra AI</b> and <b>Parallel AI</b> agent orchestration. Deep Research supports <b>real-time SSE streaming</b> for multi-step agent reasoning, credit-based <b>subscription management</b> via AtlosFeatures 5 specialized processors (Radar to Apex) for everything from quick web searches to ultra-deep entity exploration.
+<br/><br/>
+<code>Mastra AI</code> <code>Parallel AI</code> <code>NestJS</code> <code>Prisma</code> <code>Grok 4.1</code> <code>SSE Streaming</code> <code>BullMQ</code>
+<br/><br/>
+</td>
+
+<td align="center" valign="top" width="33%">
 <br/>
 <h3>🧬 <a href="https://lifeorg.ai/">LifeOrg</a></h3>
 <b>AI Wellness Platform</b>
@@ -44,29 +82,30 @@ Prompt → full course with lessons, quizzes, podcast & images, streamed live. 5
 <code>LiveKit</code> <code>Deepgram</code> <code>Groq</code> <code>tRPC</code> <code>Prismic</code>
 <br/><br/>
 </td>
-<td align="center" valign="top" width="25%">
+
+<td align="center" valign="top" width="33%">
 <br/>
 <h3>🔬 <a href="https://www.research3.ai/">ResearchX</a></h3>
 <b>AI Research Platform</b>
 <br/><br/>
 RAG-powered research assistant with PDF parsing + vector search. Google Scholar, but it <i>actually</i> gets what you're asking.
 <br/><br/>
-<code>MongoDB Atlas</code> <code>LangChain</code> <code>Exa AI</code> <code>LlamaCloud</code>
+<code>NestJs</code> <code>MongoDB Atlas</code> <code>LangChain</code> <code>Exa AI</code> <code>LlamaCloud</code>
 <br/><br/>
 </td>
-<td align="center" valign="top" width="25%">
-<br/>
-<h3>🎙️ <a href="https://scribeos.xyz/">ScribeOS</a></h3>
-<b>AI Transcription</b>
-<br/><br/>
-Audio → transcripts → AI summaries. On-chain payments via X402 because regular billing is too mainstream.
-<br/><br/>
-<code>Whisper V3</code> <code>X402</code> <code>Loop Crypto</code> <code>Cloudflare R2</code>
-<br/><br/>
-</td>
+
+
+
+</tr>
+
+<tr>
+
+<td align="center" valign="top" width="33%"></td>
+<td align="center" valign="top" width="33%"></td>
+<td align="center" valign="top" width="33%"></td>
+
 </tr>
 </table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
