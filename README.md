@@ -10,7 +10,7 @@
 ###  **Performance & Reliability:** Improved backend efficiency through **caching strategies, API optimization, and asynchronous processing**.
 ###  **AI Infrastructure:** Designed and implemented **RAG pipelines and agentic workflows** integrating LLM APIs and vector databases.
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ##   🛠 Technical Stack
 ###  **Languages & Frameworks:** TypeScript (**Node.js, NestJS**), JavaScript, **Next.js**, React, Java, Springboot
