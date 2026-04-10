@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Ritik Sharma</h1>
-<h2 align="center">Backend Engineer</h2>
+<h2 align="center">Full Stack Engineer</h2>
 <h3 align="center">Founding Engineer at a Web3 AI startup building scalable AI platforms and distributed backend systems.</h3>
 
 ---
