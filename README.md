@@ -144,7 +144,7 @@ RAG-powered research assistant with PDF parsing + vector search. Google Scholar,
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritik-M0&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ritik-M0&theme=tokyonight)
 
 </div>
 
