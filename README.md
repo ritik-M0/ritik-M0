@@ -3,6 +3,7 @@
 <h3 align="center">Founding Engineer at a Web3 AI startup building scalable AI platforms and distributed backend systems.</h3>
 
 ---
+<!-- force refresh -->
 
 ## 📈 Recent Impact
 ###  **Backend Systems:** Architected scalable backend services and AI platforms using **TypeScript, NestJS, PostgreSQL, and Redis**.
